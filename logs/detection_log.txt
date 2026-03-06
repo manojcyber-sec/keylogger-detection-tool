@@ -1,0 +1,469 @@
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:15.972590
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:15.973176
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:16.414095
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:16.414618
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:16.421106
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:21.020796
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:21.021620
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:21.022433
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:21.456254
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:21.457502
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:21.458515
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:26.053452
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:26.053874
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:26.055885
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:26.471248
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:26.471632
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:26.471958
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:31.078164
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:31.078941
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:31.079585
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:31.486782
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:31.487250
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:31.487638
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:36.106069
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:36.106675
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:36.107400
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:36.521086
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:36.522577
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:36.523360
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:41.154606
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:41.155544
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:41.156249
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:41.547796
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:41.548575
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:41.549244
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:46.204368
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:46.205214
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:46.206909
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:46.586789
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:46.587397
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:46.587998
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:51.240414
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:51.240981
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:51.241640
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:51.611895
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:51.614103
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:51.614889
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:56.285711
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:56.286623
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:56.287717
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:56.642067
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:13:56.642841
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:13:56.643537
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:14:01.314575
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:14:01.315268
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:14:01.315968
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:14:01.666894
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:14:01.667704
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:14:01.668319
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:14:06.375982
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:14:06.376506
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:14:06.376844
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 9100
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:14:06.679899
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 15124
+Name: cmd.exe
+Path: C:\Windows\System32\cmd.exe
+Time: 2026-03-06 21:14:06.680484
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 19676
+Name: python.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\python.exe
+Time: 2026-03-06 21:14:06.680933
+------------------------------
+
+[ALERT] Suspicious process detected
+PID: 11676
+Name: pip.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\Scripts\pip.exe
+Time: 2026-03-06 21:23:59.609231
+-----------------------------
+
+[ALERT] Suspicious process detected
+PID: 11676
+Name: pip.exe
+Path: C:\Users\Manoj\AppData\Local\Programs\Python\Python314\Scripts\pip.exe
+Time: 2026-03-06 21:24:00.215443
+-----------------------------
